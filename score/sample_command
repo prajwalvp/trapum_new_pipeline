@@ -1,0 +1,1 @@
+python pics_original_scorer_db.py -H rabbit_host -p rabbit_port --input=pics_original_Ter5_all_beams

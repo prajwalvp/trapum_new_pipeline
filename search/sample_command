@@ -1,0 +1,1 @@
+python3.6 receive_merge_filter_and_search_26may20.py -H rabbit_host -p rabbit_port --input peasoup32_Ter5_all_beams --pl=peasoup32_ter5_default.in

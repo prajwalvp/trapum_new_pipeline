@@ -1,0 +1,1 @@
+python3 trapum_send_processing_26may20.py --length=600 --observation_path=/beegfs/DATA/TRAPUM/SCI-20180923-MK-01/20200416-0004/20200416_005928-merged --number_of_beams=2 -H 10.98.76.200 -p 31861 -q peasoup32_Ter5_all_beams

@@ -1,0 +1,10 @@
+# This file gives specific input parameters to be used to give arguments for pipeline
+Pipeline Name: PEASOUP32
+start_acc: -5
+end_acc: 5
+start_dm: 220
+end_dm: 250
+snr_threshold: 9.0
+limit_on_candidates: 1000
+mask_file: /beegfs/u/prajwalvp/trapum_processing/merged_filterbanks/20200416-0004/20200416_005928/Ter5_16apr_rfifind.badchan_peasoup
+birdie_file: /beegfs/u/prajwalvp/kubernetes_workflow/searching_pipelines/pipeline_stuff/trapum_pipeline/old_style_pipeline/search/trapum_latest.birdies 
